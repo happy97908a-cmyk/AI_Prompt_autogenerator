@@ -1,2 +1,3 @@
 # AI_Prompt_autogenerator
-첫 프로젝트
+2025_2학기_웹파이썬프로그래밍_
+첫프로젝트
